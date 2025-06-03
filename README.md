@@ -1,53 +1,42 @@
-# 👋 Hi, I'm Muhammed Afzal A — AI Student at SRM KTR
-
-🎓 I'm a 2nd-year B.Tech student specializing in **Artificial Intelligence** at **SRM Institute of Science and Technology, Kattankulathur (SRM KTR)**.  
-🚀 Passionate about **AI, Machine Learning, Deep Learning, and building futuristic solutions** that can positively transform lives.
+<h1 align="center">Hi 👋, I'm Afzal</h1>
+<h3 align="center">AI Student | ML Explorer | Future Tech Enthusiast</h3>
 
 ---
 
-## 🧠 What I Do
-
-As an AI enthusiast, I’m actively exploring:
-
-- 🤖 **Machine Learning & Deep Learning** — from classical models to neural networks
-- 📊 **Data Science & Analytics** — turning data into decisions
-- 🧠 **Neural Networks & NLP** — creating intelligent systems that understand language
-- 💻 **Full-Stack Development** — web & app projects powered by AI
-- 🛠️ **Projects with Purpose** — solving real-world problems with tech
+🎓 **B.Tech in Artificial Intelligence**  
+📍 SRM Institute of Science and Technology, Kattankulathur  
+💡 Passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 About Me
 
-- **Languages:** Python, C, JavaScript
-- **AI/ML Tools:** Scikit-Learn, TensorFlow, Keras, OpenCV, Pandas, NumPy
-- **Web Dev:** HTML, CSS, React.js, Node.js, Express
-- **Tools & Platforms:** GitHub, VS Code, Colab, Jupyter Notebook, Linux
+- 🌱 Currently diving deeper into **Machine Learning**, **Deep Learning**, and **AI applications**
+- 🔭 Working on real-time projects that merge AI with **web and app development**
+- 🧠 Exploring the intersection of **technology, humanity, and the future**
+- 🎯 Career goal: To innovate with AI and launch a **future-forward tech startup**
+- 🗃️ Open to internships, collaborations, and impactful contributions
 
 ---
 
-## 📌 Current Goals
+## 🧰 My Tech Stack
 
-- 🌱 Deepen my expertise in **AI/ML systems**
-- 📚 Work on impactful open-source & research projects
-- 💡 Launch a startup that shapes the **future with ethical AI**
-- 📈 Improve my portfolio and contribute to meaningful communities
+**Languages:**  
+`Python` `C` `JavaScript` `HTML` `CSS`
+
+**AI & Data Tools:**  
+`TensorFlow` `Keras` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
+
+**Web & Dev Tools:**  
+`React` `Node.js` `Express` `MongoDB`  
+`VS Code` `GitHub` `Jupyter` `Colab`
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/muhammed-afzal-a-82b87a231) 
-- 🐙 [GitHub](https://github.com/muhammedafzala)  
-- 📧 Email: muhammedafzal1000@gmail.com  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if available)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-afzal-a-82b87a231)
+- 🌐 [Portfolio](https://yourportfolio.com) 
+- 📧 muhammedafzal1000@gmail.com
 
 ---
-
-## 💬 Quote I Live By
-
-> “The future belongs to those who design it. As an AI engineer in the making, I aim to build it ethically and intelligently.”
-
----
-
-⭐ **Thanks for visiting! Feel free to check out my projects and drop a message if you'd like to collaborate.**
